@@ -1,6 +1,10 @@
 # kReact
 > Let's learn React by building react within 100 lines of code 🏂🏻
 
+Medium article: https://kamesh-dev.medium.com/kreact-building-your-own-react-virtual-dom-b0376cbbd3c
+
+![](https://miro.medium.com/max/863/1*-spZEnqjgpzwJ_3yPZFhxw.png)
+
 ### 🤖 Introduction
 - kReact is built similar to react and mimics its internal working.
 - React is a great library that automates most of the DOM handling for us.
