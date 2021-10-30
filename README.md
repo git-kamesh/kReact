@@ -5,6 +5,8 @@ Medium article: https://kamesh-dev.medium.com/kreact-building-your-own-react-vir
 
 ![](https://miro.medium.com/max/863/1*-spZEnqjgpzwJ_3yPZFhxw.png)
 
+For More updated, following me: https://twitter.com/kamesh_koops
+
 ### 🤖 Introduction
 - kReact is built similar to react and mimics its internal working.
 - React is a great library that automates most of the DOM handling for us.
